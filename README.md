@@ -4,6 +4,6 @@
 <h2>Detected Image</h2>
 <img src="detect.png">
 
-<h4>
+<p>
 Trained The Model only on 14 Images Each and able to recognisze any unknown photo of the subject.
-</h4>
+<p>
